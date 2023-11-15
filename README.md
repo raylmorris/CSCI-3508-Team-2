@@ -2,9 +2,9 @@
 IRC Client
 ## Todo
 ### Minimum Test Cases 
-Login
-Create Channels
-Join Channels
-Send Messages in Channel
-Send Private Messages
-Logoff
+Login 
+Create Channels 
+Join Channels 
+Send Messages in Channel 
+Send Private Messages 
+Logoff 
